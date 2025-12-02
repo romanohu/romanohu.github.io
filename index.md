@@ -11,8 +11,9 @@
 - [雨宮監督最新作品『ザ・レンチキュラーズ』](https://www.youtube.com/watch?v=JlgATKUIfv4)
 
 ## Pages
+### 色々
 - [学術的興味](research/research.md)
 
-## 記事
+### 記事
 - [現代視覚文化研究会51期会長REPO](blog/kaityouRepo.md)
 
