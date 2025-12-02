@@ -14,10 +14,9 @@
 
 ## Techniques and skills
 (自信もって書けるようになるものが生まれたら書く)
-### 最近頑張っているもの
-- Cpp, Python
-
-### ちょっと頑張ってたもの
+### Learning in Progress
+- Cpp
+- Python
 - Unity
 - C#
 

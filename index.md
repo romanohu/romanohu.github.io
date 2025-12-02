@@ -12,7 +12,7 @@
 
 ## Pages
 - [学術的興味](research/research.md)
-- [記事/Blog](blog/blog_list.md)
+- [記事/ブログ](blog/blog_list.md)
 
 ## Friends Page
 - [miya](https://miya-lis.net/)
