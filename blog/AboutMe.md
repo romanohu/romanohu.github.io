@@ -6,10 +6,11 @@
     - 現代視覚文化研究会51期会長
     - ワンダーフォーゲルクラブ23年度副主将
 
-## qualification
+## Certifications/Licenses
 - 応用情報技術者
 - 基本情報技術者
 - 普通自動車第一種運転免許
+- (TOEICのことは聞かないでください)
 
 ## Techniques and skills
 (自信もって書けるようになるものが生まれたら書く)
