@@ -18,6 +18,7 @@ Era(2020)](https://arxiv.org/abs/2006.02419)
     - [RPM: Generalizable Behaviors for Multi-Agent Reinforcement Learning(2022)](https://arxiv.org/abs/2210.09646)
     - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem(2023)](https://arxiv.org/abs/2205.14953?utm_source=chatgpt.com)
     - [A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives(2025)](https://arxiv.org/abs/2503.13415)
+
 ## 論文メモ
 ### 2017
 #### Multi-agent Reinforcement Learning in Sequential Social Dilemmas
