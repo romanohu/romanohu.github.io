@@ -12,10 +12,13 @@
 - 普通自動車第一種運転免許
 
 ## 技術・スキル
-- Unity, C#
-
+(自信もって書けるようになるものが生まれたら書く)
 ### 最近頑張っているもの
 - Cpp, Python
+
+### ちょっと頑張ってたもの
+- Unity
+- C#
 
 ## 趣味
 - ゲーム
@@ -29,3 +32,7 @@
 
 ## Works/Creation
 - [Tetri-Shooter](https://unityroom.com/games/tetri-shooter) with [pictogram](https://github.com/Pictogram23)
+
+## Internship
+- Cygames summer Internship 1week, EngineerCourse
+- Tokium summer Internship 3days
