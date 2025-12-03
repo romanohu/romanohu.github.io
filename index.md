@@ -2,7 +2,7 @@
 味気の無い個人ページです
 ## About me
 - 筑波大学情報学群知識情報・図書館学類学部3年
-- MLLUlab所属
+- [機械学習・言語理解研究室](https://tzkwkblab.github.io/wkblab/)所属
 
 > [detail……](blog/AboutMe.md)
 

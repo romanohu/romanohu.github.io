@@ -1,7 +1,7 @@
 # AboutMe
 ## Current situation
 - 筑波大学情報学群知識情報・図書館学類学部3年
-- MLLUlab
+- [機械学習・言語理解研究室](https://tzkwkblab.github.io/wkblab/)所属
 - サークル
     - 現代視覚文化研究会51期会長
     - ワンダーフォーゲルクラブ23年度副主将
