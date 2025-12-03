@@ -13,9 +13,5 @@
 ## Pages
 - [学術的興味](research/research.md)
 - [記事/ブログ](blog/blog_list.md)
+- [リンク](link.md)
 
-## Friends Page
-- [miya](https://miya-lis.net/)
-- [zkm](https://zkm-web.pages.dev/)
-- [utugi](https://utsugi0101.dev/)
-- [ono](https://ono-haya.github.io/)
