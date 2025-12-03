@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: ""
 logo: assets/images/logo.jpg
+plugins:
+  - jekyll-sitemap
