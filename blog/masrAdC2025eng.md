@@ -1,7 +1,8 @@
 # mastAdventCalendar2025
-:::danger
-Note: This article was translated from Japanese through Plamo's translation system. This is purely for fun.
-:::
+
+> [!CAUTION]
+> Note: This article was translated from Japanese through Plamo's translation system. This is purely for fun.
+
 
 This is the eighth entry for the "[mast Advent Calendar 2025](https://adventar.org/calendars/11736)".
 Day seven was written by MY with the article titled [title omitted].
@@ -31,9 +32,8 @@ At the start of the current academic year, I lacked both the knowledge and imple
 It's unclear yet whether I'll be able to produce results at the level of research presentations... (I'll do my best, of course.)
 
 I realize I've veered somewhat off-topic, but through this course, I first became aware of Professor Wkb's research group. Additionally, I've gained valuable insights into the lab's atmosphere and Professor Wkb's philosophical approach, so I'm glad I took this course.
-:::info
-I can't remember the exact course name, but there's another course with the same content under a different title available on MAST.
-:::
+
+> [!NOTE] I can't remember the exact course name, but there's another course with the same content under a different title available on MAST.
 
 **
 ## Summer Break
@@ -44,9 +44,8 @@ Since Wkb's research extensively incorporates RL-related technologies, I conside
 
 This gradually built up my inclination toward joining Wkb's lab.
 
-:::info
-Around the beginning of summer break, I came across a blog written by an alumni from Wkb's lab who now works as a researcher. This discovery somehow made the prospect of joining Wkb feel less daunting.
-:::
+
+> [!NOTE] Around the beginning of summer break, I came across a blog written by an alumni from Wkb's lab who now works as a researcher. This discovery somehow made the prospect of joining Wkb feel less daunting.
 
 ## Lab Placement
 As mentioned in the preceding section, by summer break I didn't have a clear "I absolutely must join ○○ Lab!!" type of preference, so when I heard in October that lab placement interviews were becoming available, I became quite anxious.
@@ -55,9 +54,8 @@ As mentioned in the preceding section, by summer break I didn't have a clear "I 
 Since I was taking "The World of Intellectual Exploration," I had been maintaining regular contact with Professor Wkb, but actually expressing my lab preference was when I visited the lab the following week for an unrelated matter. During the interview, we focused less on what specific research I wanted to do and more on verifying whether my understanding of the Wkb Lab's specialized field was accurate. I also mentioned that I was particularly drawn to the lab's use of RL as a methodology. It was reassuring that the atmosphere suggested I could decide what specific research to pursue and what kind of research I wanted to do after being assigned to the lab.
 
 As for negative considerations, I explicitly stated I didn't want to work on LLM prompt engineering research, but since LLMs themselves were largely outside the lab's scope, this wasn't a problem. (This was just my personal preference - there are many researchers doing fascinating and meaningful work in this area.)After a similar interview at YM Lab and receiving positive feedback, I hesitated but ultimately selected the Wkb Lab as my first choice when registering my preferences.
-:::info
-"Hope" refers to the system used by klis students to register their lab preferences and check the number of applicants for each lab.
-:::
+
+> [!NOTE] "Hope" refers to the system used by klis students to register their lab preferences and check the number of applicants for each lab.
 
 As a result, I received a job offer around mid-October and was officially assigned to the Wkb Lab.
 ## What was this all about?
@@ -73,8 +71,6 @@ The solution to information shortages is obvious: start moving sooner rather tha
 
 For this reason, I hope this article can at least partially fill in some gaps by sharing one sample case of joining a lab outside your own department.
 
-:::warning
-Since many programs seem to use GPA-based "rock-paper-scissors" for placement, this information may not be particularly useful for actual placement decisions.
-:::
+> [!WARNING] Since many programs seem to use GPA-based "rock-paper-scissors" for placement, this information may not be particularly useful for actual placement decisions.
 
 That concludes Day 8 of the mastAdC2025 series. To all mast-affiliated students, should we cross paths in some way, please do make an effort to get along!
