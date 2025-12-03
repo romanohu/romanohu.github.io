@@ -35,7 +35,6 @@ I realize I've veered somewhat off-topic, but through this course, I first becam
 
 > I can't remember the exact course name, but there's another course with the same content under a different title available on MAST.
 
-**
 ## Summer Break
 Not long after learning about Wkb's research group, I also discovered that klis offered placement opportunities there, though it wasn't particularly high on my list of preferred options at the time. However, I did express interest in joining a machine learning-related lab, so I wasn't completely unaware of the possibility. Apologies for the vagueness...
 
