@@ -4,4 +4,4 @@
 - [現代視覚文化研究会51期会長REPO](./kaityouRepo.md)
 
 ---
-[Home](./index.md)
+[Home](../../index.md)

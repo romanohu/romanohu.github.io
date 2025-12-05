@@ -10,4 +10,4 @@
 - [Keisuke Okumura](https://kei18.github.io/)
 
 ---
-[Home](./index.md)
+[Home](../index.md)

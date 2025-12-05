@@ -38,4 +38,4 @@
 - Tokium summer Internship 3days
 
 ---
-[Home](./index.md)
+[Home](../index.md)
