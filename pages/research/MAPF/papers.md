@@ -4,7 +4,7 @@
     - 取り合えず読むべし
 - [奥村圭祐：PIBTの解説](https://kei18.github.io/pibt2/)
 - [奥村圭祐：github](https://github.com/Kei18)
-    - この界隈で有名なアルゴリズムのソースコードが大体ある(Python or Cpp)
+    - LacamやPIBTのサンプルコードや、ビジュアライズツールがある．
 - [mapf.info](https://mapf.info/index.php/Main/HomePage)
      - MAPFの文献やチュートリアル、会議情報が載っている
 - 読んだ方が良い論文
